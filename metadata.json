@@ -1,0 +1,6 @@
+{
+  "name": "VoltEstimate & Contractor Bid AI",
+  "description": "Electrical and construction contractor bidding platform with AI takeoff calculations, labor and material estimators, and self-calibrating historical job tracking to continuously improve bidding accuracy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
