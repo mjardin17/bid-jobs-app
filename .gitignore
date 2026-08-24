@@ -1,0 +1,4 @@
+node_modules
+dist
+.env
+data_store/*.backup.json
